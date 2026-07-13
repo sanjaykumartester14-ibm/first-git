@@ -1,1 +1,1 @@
-console.log("Division:", 10/2);
+console.log("Division:", 10/4);
