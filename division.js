@@ -1,0 +1,1 @@
+console.log("Division:", 10/2);
